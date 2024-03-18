@@ -11,7 +11,7 @@ Graphviz is an innovative project that empowers users to seamlessly upload SQL d
  
 # Getting Started
 
-To get started with Next Word Prediction, follow these steps:
+To get started with Graphviz, follow these steps:
 
 ### API Setup
 
@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-To enable frontend functionality, a separate service needs to be initiated.GitHub repository for the frontend - [graphviz-frontend](https://github.com/Sheel-ui/graphviz-frontend)
+To enable frontend functionality, a separate service needs to be initiated. GitHub repository for the frontend - [graphviz-frontend](https://github.com/Sheel-ui/graphviz-frontend)
 
 # Changing env variables and Models
 
